@@ -1,4 +1,5 @@
 mod downloader;
+mod audio_extractor;
 use crate::downloader::models::*;
 use crate::downloader::web::download_model;
 
